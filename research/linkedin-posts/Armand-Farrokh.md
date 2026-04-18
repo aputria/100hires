@@ -15,7 +15,6 @@ repeatable, and practitioner-first.
 - **Post URL:** [View on LinkedIn](https://www.linkedin.com/posts/armand-farrokh_sales-activity-7450207579458289664-E5kI)
 - **Why it matters:** Practical framework for coordinated team selling in B2B deals
 
-# Content
 Team selling boosts win rates by 50%. But most team selling looks like an 11pm uncoordinated salsa dance. 
 Instead, assign your counterpart 1 of 4 roles:
 

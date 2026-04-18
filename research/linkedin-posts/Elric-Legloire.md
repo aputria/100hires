@@ -1,6 +1,7 @@
 # Elric Legloire — LinkedIn Posts
 
 ## About Elric
+
 Elric Legloire is an outbound sales strategist and content creator who 
 specializes in reverse-engineering how top B2B companies scale their outbound 
 motion. Known for deep-dive teardowns of real outbound systems from companies 
@@ -10,6 +11,7 @@ framework with real data and hours of research — not surface-level takes.
 ---
 
 ## Post 1
+
 - **Date:** March 2026
 - **Engagement:** 21 likes · 7 comments · 1 repost
 - **Post URL:** [View on LinkedIn](https://www.linkedin.com/posts/elriclegloire_build-your-icp-101-for-outbound-teams-activity-7435679976605200384-9Ne4)
@@ -22,11 +24,12 @@ You're selling to single-location pizza shops in NYC that use Square, and rely o
 Precise targeting builds pipeline.
 The sharper your ICP, the faster you win with outbound.
 
-**Attached PDF:** [Build Your ICP 101 for Outbound Teams](../../other/Elric-Leglorie/Elric-Post1.pdf)
+**Attached PDF:** [Build Your ICP 101 for Outbound Teams](https://github.com/aputria/100hires/blob/main/research/other/Elric-Legloire/Elric-Post1.pdf)
 
 ---
 
 ## Post 2
+
 - **Date:** March 2026
 - **Engagement:** 101 likes · 40 comments
 - **Post URL:** [View on LinkedIn](https://www.linkedin.com/posts/elriclegloire_snowflake-crossed-447b-arr-heres-the-activity-7434960936894963712-a48E)
@@ -36,7 +39,7 @@ Snowflake crossed $4.47B ARR.
 
 Here's the outbound tech stack behind their growth, supporting 300 SDRs, broken down by function ⬇️
 
-1) Signals 
+1. Signals
 
 Spot accounts showing intent, engagement, or inbound buying activity.
 
@@ -46,7 +49,7 @@ Spot accounts showing intent, engagement, or inbound buying activity.
 - Influ2
 - Qualified
 
-2) Data + Enrichment
+1. Data + Enrichment
 
 Enrich contacts, build context, and prioritize accounts worth outreach.
 
@@ -54,7 +57,7 @@ Enrich contacts, build context, and prioritize accounts worth outreach.
 - LinkedIn Sales Nav
 - ZoomInfo
 
-3) RevOps Core
+1. RevOps Core
 
 Route leads, match to accounts, and keep GTM handoffs clean. 
 
@@ -63,12 +66,12 @@ Route leads, match to accounts, and keep GTM handoffs clean.
 - Marketo
 - MaxIQ - revenue execution
 
-4) Execution  (SDR kitchen)
+1. Execution  (SDR kitchen)
 
 - Outreach
 - Reachdesk
 
-5) Data Stack (Warehouse + Pipelines + Modeling + Activation)
+1. Data Stack (Warehouse + Pipelines + Modeling + Activation)
 
 - Snowflake
 - Tableau
@@ -76,14 +79,14 @@ Route leads, match to accounts, and keep GTM handoffs clean.
 - Fivetran - ELT pipelines 
 - dbt Labs
 
-6) Coaching + Enablement 
+1. Coaching + Enablement
 
 Capture what works and arm reps with repeatable playbooks.
 
 - Gong
 - Seismic
 
-7) AI & Automation
+1. AI & Automation
 
 - Claude (Anthropic)
 - Codex AI (by Snowflake)
@@ -109,6 +112,7 @@ Click "Visit my website" to get my 8 outbound breakdowns.
 ---
 
 ## Post 3
+
 - **Date:** March 2026
 - **Engagement:** 53 likes · 11 comments · 3 reposts
 - **Post URL:** [View on LinkedIn](https://www.linkedin.com/posts/elriclegloire_great-outbound-is-rooted-in-unsexy-work-activity-7434597092603432961-rk5H)
@@ -147,11 +151,12 @@ What other invisible outbound work would you add?
 
 Follow me Elric Legloire for daily tips on how to scale outbound.
 
-**Attached Image:** [What People Think Outbound Is](../../other/Elric-Legloire/what%20people%20think%20outbound%20is.JPG)
+**Attached Image:** [What People Think Outbound Is](https://github.com/aputria/100hires/blob/main/research/other/Elric-Legloire/What%20People%20Think%20Outbound%20Is.jpg)
 
 ---
 
 ## Post 4
+
 - **Date:** March 2026
 - **Engagement:** 39 likes · 17 comments
 - **Post URL:** [View on LinkedIn](https://www.linkedin.com/posts/elriclegloire_my-take-on-the-gtm-engineers-replacing-sdrs-activity-7434237143536795648-AbNx)
@@ -177,12 +182,13 @@ Here are the 2 biggest things the "SDR is dead" crowd is missing:
 
 The narrative paints GTM Engineers purely as top-of-funnel outbound automation machines. In reality, a GTM Engineer working full-time at a SaaS company impacts the full revenue cycle, from inbound routing and enrichment to CRM hygiene and customer lifecycle ops. Confining them to just cold email is a waste of their talent. 
 
-2. Effective outbound is dictated by your market.
+1. Effective outbound is dictated by your market.
 
 This dangerous "either/or" mindset pushes teams into bad strategies:
+
 - GTM Engineers plateau fast with complex enterprise accounts or blue collar industries.
 - Programmatic outbound relies heavily on email, but scaling still demands phone outreach.
-- For high ACV/LTV accounts, pipeline quality matters far more than low CAC. 
+- For high ACV/LTV accounts, pipeline quality matters far more than low CAC.
 
 SDRs without ops support waste hours on manual tasks, but AI-only outreach consistently underperforms human-led prospecting in these tiers.
 
@@ -205,6 +211,7 @@ Stop buying into the either/or hype. Build integrated strategies that reflect bu
 ---
 
 ## Post 5
+
 - **Date:** March 2026
 - **Engagement:** 26 likes · 5 comments · 1 repost
 - **Post URL:** [View on LinkedIn](https://www.linkedin.com/posts/elriclegloire_pigment-scaled-from-2-to-50-bdrs-in-3-years-activity-7432409998657216512-8AeQ)
@@ -233,18 +240,19 @@ Here are the 5 strategies that make it work:
 
 They don't just send emails. Every outreach has real intent behind it. BDRs get the right account, contact, moment, and context delivered to them.
 
-2. In-House Tech Stack 
+1. In-House Tech Stack
 
 While others waited for tools like Clay, Pigment built their own. Result: 50K target accounts with automated outreach for mid-market and BDR focus on enterprise.
 
-3. Data Warehouse Over CRM
+1. Data Warehouse Over CRM
 
 They track 10,000+ buying signals daily but only push 10-15% of the highest-quality signals to reps. No flooding BDRs with raw data.
 
-4. 4-Tier BDR Academy 
+1. 4-Tier BDR Academy
+
 Most companies burn through BDRs in 18 months. Pigment keeps top reps for 2-4 years with clear progression from meetings → pipeline → closed deals.
 
-5. Partnership Overlay 
+1. Partnership Overlay
 
 16% of new logos sourced from partners. 40% of closed deals had a partner attached. Win rates jumped 5-10% on partner deals.
 
@@ -260,4 +268,4 @@ Their complete frameworks and playbooks in 8 detailed teardowns.
 
 Click "Visit my website" at the top for instant access.
 
-**Attached Image:** [Pigment Outbound](../../other/Elric-Leglorie/Pigment.jpg)
+**Attached Image:** [Pigment Outbound](https://github.com/aputria/100hires/blob/main/research/other/Elric-Legloire/Pigment.jpg)

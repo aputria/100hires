@@ -56,29 +56,27 @@ These experts are grouped by their **primary contribution to the cold outreach p
 ```mermaid
 flowchart LR
 
-subgraph G1[1. Messaging & Strategy (What to say + how to approach prospects)]
-  direction TB
-  A1[Josh Braun]
-  A2[Kyle Coleman]
-  A3[Elric Legloire]
+subgraph A[1. Messaging and Strategy]
+    A1[Josh Braun]
+    A2[Kyle Coleman]
+    A3[Elric Legloire]
 end
 
-subgraph G2[2. Execution & Prospecting (Cold outreach in practice)]
-  direction TB
-  B1[Connor Murray]
-  B2[Eric Finch]
-  B3[Morgan J. Ingram]
-  B4[Tom Slocum]
+subgraph B[2. Execution and Prospecting]
+    B1[Connor Murray]
+    B2[Eric Finch]
+    B3[Morgan J Ingram]
+    B4[Tom Slocum]
 end
 
-subgraph G3[3. Real-World Application & Pipeline Progression]
-  direction TB
-  C1[Armand Farrokh]
-  C2[John Barrows]
-  C3[Mark Kosoglow]
+subgraph C[3. Real-World Application and Pipeline]
+    C1[Armand Farrokh]
+    C2[John Barrows]
+    C3[Mark Kosoglow]
 end
 
-G1 --> G2 --> G3
+A2 --> B2
+B2 --> C2
 ```
 
 ---

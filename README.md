@@ -22,9 +22,6 @@ Experts were selected based on:
 
 These experts are grouped by their **primary contribution to the cold outreach pipeline**—whether they focus on messaging and strategy, hands-on execution, or real-world application and pipeline progression. While many cover multiple areas, each is categorized based on where they provide the most consistent and actionable insights.
 
----
-
-## Expert Grouping by Primary Contribution to Cold Outreach Pipeline
 
 ### 1. Messaging & Strategy (What to say + how to approach prospects)
 
@@ -112,7 +109,9 @@ B2 --> C2
 ## Tools Used
 
 * Cursor IDE
-* Claude Code
+* Claude
+* ChatGPT 
+* YouTube Data API
 * Supadata
 * GitHub
 
@@ -120,4 +119,4 @@ B2 --> C2
 
 ## Notes
 
-This project focuses on **cold outreach as the entry point to pipeline creation**, while acknowledging its connection to broader sales execution and revenue outcomes.
+This research focuses on **cold outreach as the entry point to pipeline creation**, while acknowledging its connection to broader sales execution and revenue outcomes.

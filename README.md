@@ -97,6 +97,7 @@ B2 --> C2
   /other                → Additional materials, PDFs, images
   sources.md            → List of all experts with links and annotations
 /scripts
+  fetch_blogs.py        → Fetches blog posts/newsletter from available experts
   fetch_youtube.py      → Fetches latest videos from expert YouTube channels
   fetch_extra.py        → Fetches transcripts for additional videos
   fetch_josh_braun.py   → Downloads Josh Braun resource PDFs automatically
@@ -109,7 +110,7 @@ B2 --> C2
 ## Tools Used
 
 * Cursor IDE
-* Claude
+* Claude Code
 * ChatGPT 
 * YouTube Data API
 * Supadata

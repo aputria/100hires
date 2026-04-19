@@ -77,25 +77,8 @@ end
 
 A2 --> B2
 B2 --> C2
-```
-
----
-
-## Repository Structure
 
 ```
-/research
-  /linkedin-posts
-  /youtube-transcripts
-  /other
-  /sources.md
-  
-```
-
-* **sources.md** → List of selected experts and their platforms
-* **linkedin-posts/** → Collected posts organized by author
-* **youtube-transcripts/** → Transcripts from videos and breakdowns
-* **other** → Additional contents, pdf, images
 
 ---
 
@@ -107,6 +90,23 @@ B2 --> C2
 * Consistent execution (follow-ups, systems) drives pipeline results
 * Pipeline quality matters more than quantity
 
+---
+
+## Repository Structure
+```
+/research
+  /linkedin-posts       → Collected posts organized by author
+  /youtube-transcripts  → Transcripts organized by video
+  /other                → Additional materials, PDFs, images
+  sources.md            → List of all experts with links and annotations
+/scripts
+  fetch_youtube.py      → Fetches latest videos from expert YouTube channels
+  fetch_extra.py        → Fetches transcripts for additional videos
+  fetch_josh_braun.py   → Downloads Josh Braun resource PDFs automatically
+  requirements.txt      → Python dependencies
+  channels.txt          → List of expert YouTube channel URLs
+  extra_videos.txt      → Additional video URLs for transcript fetching
+```
 ---
 
 ## Tools Used
